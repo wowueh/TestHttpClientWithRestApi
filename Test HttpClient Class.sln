@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Http Request", "Http Request\Http Request.csproj", "{7BBD1128-4418-4699-AB66-1DC63D5B54EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Request a File", "Request Video File\Request a File.csproj", "{6171D130-0C1B-46C0-BFFC-584B0C4D22E1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Request a File", "Request a File\Request a File.csproj", "{6171D130-0C1B-46C0-BFFC-584B0C4D22E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
